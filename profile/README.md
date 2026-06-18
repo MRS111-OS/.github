@@ -2,7 +2,7 @@
 
 # Momentum Robotics
 
-### Building Intelligent Machines for the Real World
+### Engineering Tomorrow's Intelligent Machines.
 
 
 [Website](https://www.momentumrobotics.in/) • [Careers](#) • [Contact](#)
